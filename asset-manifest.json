@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8e3a672.css",
+    "main.js": "/static/js/main.f439671e.js",
+    "static/media/20161125_100033.jpg": "/static/media/20161125_100033.0b5e718d32338b02fa12.jpg",
+    "static/media/20190129_122145.jpg": "/static/media/20190129_122145.419a2488937eaaf8d90b.jpg",
+    "static/media/contact-us-map2.png": "/static/media/contact-us-map2.73c5c157e0bc1c4576c1.png",
+    "static/media/robotarm.png": "/static/media/robotarm.840579c765fd040baaa3.png",
+    "static/media/bundle.png": "/static/media/bundle.1414f7ff02b832ca146b.png",
+    "static/media/palletiser.png": "/static/media/palletiser.4b68a068dc2cd12a3da3.png",
+    "static/media/finishedGood.png": "/static/media/finishedGood.536d6c632b0fe422b627.png",
+    "static/media/HMI.png": "/static/media/HMI.1eba2e7c798ad69e5f38.png",
+    "static/media/palletInserter2.png": "/static/media/palletInserter2.90836b95edf196664ddd.png",
+    "static/media/infeed.png": "/static/media/infeed.8d37644b4aa1fc540beb.png",
+    "static/media/loadformer.jpg": "/static/media/loadformer.4933b6964fdfb7f3892f.jpg",
+    "static/media/scrap.png": "/static/media/scrap.bc3a1f9f395e7e4b17d3.png",
+    "static/media/plcprogram.png": "/static/media/plcprogram.608dc2004e02da2a71f3.png",
+    "static/media/outfeed.jpg": "/static/media/outfeed.94bf0ba74cb9eec149c6.jpg",
+    "static/media/testimg.jpg": "/static/media/testimg.94bf0ba74cb9eec149c6.jpg",
+    "static/media/palletinserter.jpg": "/static/media/palletinserter.3cec856623dd3f90029b.jpg",
+    "static/media/bundleconv.jpg": "/static/media/bundleconv.76d701c81d177a3ac8b7.jpg",
+    "static/media/surf.jpeg": "/static/media/surf.7fac2477e16a7680d86f.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.e8e3a672.css.map": "/static/css/main.e8e3a672.css.map",
+    "main.f439671e.js.map": "/static/js/main.f439671e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8e3a672.css",
+    "static/js/main.f439671e.js"
+  ]
+}
